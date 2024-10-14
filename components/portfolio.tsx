@@ -180,14 +180,14 @@ export function Portfolio() {
               interfaces.
             </p>
             <p className="text-gray-700">
-              In addition, I possess a deep understanding of blockchain
+              {`In addition, I possess a deep understanding of blockchain
               technology and its applications. With expertise in developing
               smart contracts and decentralized applications (dApps), I can help
               businesses harness the power of blockchain to drive efficiency,
               security, and transparency in their operations. I'm also
               enthusiastic about AI and machine learning, constantly exploring
               new ways to integrate these technologies into innovative
-              solutions.
+              solutions.`}
             </p>
           </CardContent>
         </Card>
